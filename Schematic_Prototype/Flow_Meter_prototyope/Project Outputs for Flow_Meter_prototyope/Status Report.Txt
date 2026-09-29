@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Flow_Meter_prototyope.PrjPcb]
+   Generated File[Prototype_PCB.TXT]
+   Generated File[Prototype_PCB.LDP]
+   Generated File[Prototype_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:49:56 On 21/09/26

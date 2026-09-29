@@ -1,0 +1,262 @@
+Removed Pin From Net: NetName=DVCC1 Pin=C10-1
+Removed Pin From Net: NetName=TARGET_GND Pin=C10-2
+Removed Pin From Net: NetName=DVCC1 Pin=C11-1
+Removed Pin From Net: NetName=TARGET_GND Pin=C26-1
+Removed Pin From Net: NetName=DVCC1 Pin=C26-2
+Removed Pin From Net: NetName=BTN_UP Pin=C29-2
+Removed Pin From Net: NetName=DVCC1 Pin=D1-2
+Removed Pin From Net: NetName=TARGET_GND Pin=D3-2
+Removed Pin From Net: NetName=TARGET_GND Pin=H1-2
+Removed Pin From Net: NetName=TARGET_GND Pin=HT1-5
+Removed Pin From Net: NetName=DVCC1 Pin=HT1-7
+Removed Pin From Net: NetName=DVCC1 Pin=R9-2
+Removed Pin From Net: NetName=BTN_UP Pin=R12-1
+Removed Pin From Net: NetName=BTN_UP Pin=U1-31
+Removed Pin From Net: NetName=BTN_DWN Pin=U1-32
+Removed Pin From Net: NetName=BTN_LEFT Pin=U1-33
+Removed Pin From Net: NetName=BTN_RIGHT Pin=U1-34
+Removed Member From Class: ClassName=Main_schematic Member=H1
+Removed Member From Class: ClassName=Main_schematic Member=HT1
+Removed Member From Class: ClassName=Main_schematic Member=JP3
+Change Component Footprint: Designator=D3 Old Footprint=LED-3MM GRE New Footprint=DO-214AC
+Change Component Footprint: Designator=C11 Old Footprint=SM-0805 New Footprint=CAP SMD ALUMINUM D8
+Change Component Footprint: Designator=C26 Old Footprint=SM-0805 New Footprint=CAP SMD ALUMINUM D8
+Change Component Comment : Designator=R3 Old Comment=1K New Comment=10k
+Change Component Comment : Designator=R9 Old Comment=3.3K New Comment=1k
+Change Component Comment : Designator=C11 Old Comment=104 New Comment=220uF/ 16V
+Change Component Comment : Designator=C26 Old Comment=104 New Comment=220uF/ 16V
+Change Component Comment : Designator=C10 Old Comment=106 New Comment=104
+Change Component Comment : Designator=D3 Old Comment=LED New Comment=SS210
+Change Component Comment : Designator=D1 Old Comment=SS210 New Comment=M7
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED-3MM GRE"; UniqueID = "\TGSDUEPI" ("\TGSDUEPI")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C31(SM-0805)
+Added Component: Designator=C32(CAP SMD ALUMINUM D8)
+Added Component: Designator=C33(SM-0805)
+Added Component: Designator=C34(SM-0805)
+Added Component: Designator=D5(LED-3MM RED)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=L3(INDUCTOR SMD 7342 7.3X7.3X4.2mm)
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Component: Designator=P1(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Component: Designator=P2(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Component: Designator=S6(BUTTON-SMD 2PIN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U2(RS485_MODULE SMD)
+Added Component: Designator=U3(SOT223-4N)
+Add component (AddParameter): Name = "Creator"; Value = "Nguyen Ba Bien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Website"; Value = "http://group3i.net"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOP8)
+Added Pin To Net: NetName=TARGET_GND Pin=C10-1
+Added Pin To Net: NetName=DVCC1 Pin=C26-1
+Added Pin To Net: NetName=TARGET_GND Pin=C26-2
+Added Pin To Net: NetName=TARGET_GND Pin=C31-1
+Added Pin To Net: NetName=TARGET_GND Pin=C32-2
+Added Pin To Net: NetName=TARGET_GND Pin=C33-2
+Added Pin To Net: NetName=TARGET_GND Pin=C34-1
+Added Pin To Net: NetName=TARGET_GND Pin=D3-1
+Added Pin To Net: NetName=TARGET_GND Pin=D5-2
+Added Pin To Net: NetName=TARGET_GND Pin=P2-2
+Added Pin To Net: NetName=DVCC1 Pin=R9-1
+Added Pin To Net: NetName=TARGET_GND Pin=S6-2
+Added Pin To Net: NetName=BTN_RIGHT Pin=U1-12
+Added Pin To Net: NetName=BTN_LEFT Pin=U1-13
+Added Pin To Net: NetName=BTN_UP Pin=U1-14
+Added Pin To Net: NetName=BTN_DWN Pin=U1-15
+Added Pin To Net: NetName=DVCC1 Pin=U2-1
+Added Pin To Net: NetName=TARGET_GND Pin=U2-4
+Added Pin To Net: NetName=TARGET_GND Pin=U2-5
+Added Pin To Net: NetName=TARGET_GND Pin=U3-1
+Added Pin To Net: NetName=DVCC1 Pin=U3-2
+Added Pin To Net: NetName=DVCC1 Pin=U3-4
+Added Pin To Net: NetName=TARGET_GND Pin=U4-4
+Added Pin To Net: NetName=TARGET_GND Pin=U4-5
+Added Pin To Net: NetName=TARGET_GND Pin=U4-6
+Added Pin To Net: NetName=TARGET_GND Pin=U4-7
+Added Pin To Net: NetName=TARGET_GND Pin=U4-8
+Added Pin To Net: NetName=+5V Pin=C11-1
+Added Pin To Net: NetName=+5V Pin=C33-1
+Added Pin To Net: NetName=+5V Pin=D1-1
+Added Pin To Net: NetName=+5V Pin=L3-2
+Added Pin To Net: NetName=+5V Pin=U4-3
+Added Net: Name=+5V
+Added Pin To Net: NetName=A+ Pin=P1-1
+Added Pin To Net: NetName=A+ Pin=U2-7
+Added Net: Name=A+
+Added Pin To Net: NetName=B- Pin=P1-2
+Added Pin To Net: NetName=B- Pin=U2-6
+Added Net: Name=B-
+Added Pin To Net: NetName=BTN_SEL Pin=C10-2
+Added Pin To Net: NetName=BTN_SEL Pin=R3-1
+Added Pin To Net: NetName=BTN_SEL Pin=S6-1
+Added Pin To Net: NetName=BTN_SEL Pin=U1-30
+Added Net: Name=BTN_SEL
+Added Pin To Net: NetName=LCD0 Pin=LCD1-1
+Added Pin To Net: NetName=LCD0 Pin=U1-62
+Added Net: Name=LCD0
+Added Pin To Net: NetName=LCD1 Pin=LCD1-2
+Added Pin To Net: NetName=LCD1 Pin=U1-61
+Added Net: Name=LCD1
+Added Pin To Net: NetName=LCD2 Pin=LCD1-3
+Added Pin To Net: NetName=LCD2 Pin=U1-60
+Added Net: Name=LCD2
+Added Pin To Net: NetName=LCD3 Pin=LCD1-4
+Added Pin To Net: NetName=LCD3 Pin=U1-59
+Added Net: Name=LCD3
+Added Pin To Net: NetName=LCD4 Pin=LCD1-5
+Added Pin To Net: NetName=LCD4 Pin=U1-58
+Added Net: Name=LCD4
+Added Pin To Net: NetName=LCD5 Pin=LCD1-6
+Added Pin To Net: NetName=LCD5 Pin=U1-57
+Added Net: Name=LCD5
+Added Pin To Net: NetName=LCD6 Pin=LCD1-7
+Added Pin To Net: NetName=LCD6 Pin=U1-56
+Added Net: Name=LCD6
+Added Pin To Net: NetName=LCD7 Pin=LCD1-8
+Added Pin To Net: NetName=LCD7 Pin=U1-55
+Added Net: Name=LCD7
+Added Pin To Net: NetName=LCD8 Pin=LCD1-9
+Added Pin To Net: NetName=LCD8 Pin=U1-54
+Added Net: Name=LCD8
+Added Pin To Net: NetName=LCD9 Pin=LCD1-10
+Added Pin To Net: NetName=LCD9 Pin=U1-53
+Added Net: Name=LCD9
+Added Pin To Net: NetName=LCD10 Pin=LCD1-11
+Added Pin To Net: NetName=LCD10 Pin=U1-50
+Added Net: Name=LCD10
+Added Pin To Net: NetName=LCD11 Pin=LCD1-12
+Added Pin To Net: NetName=LCD11 Pin=U1-49
+Added Net: Name=LCD11
+Added Pin To Net: NetName=LCD12 Pin=LCD1-13
+Added Pin To Net: NetName=LCD12 Pin=U1-48
+Added Net: Name=LCD12
+Added Pin To Net: NetName=LCD13 Pin=LCD1-14
+Added Pin To Net: NetName=LCD13 Pin=U1-47
+Added Net: Name=LCD13
+Added Pin To Net: NetName=LCD14 Pin=LCD1-15
+Added Pin To Net: NetName=LCD14 Pin=U1-46
+Added Net: Name=LCD14
+Added Pin To Net: NetName=LCD15 Pin=LCD1-16
+Added Pin To Net: NetName=LCD15 Pin=U1-45
+Added Net: Name=LCD15
+Added Pin To Net: NetName=LCD16 Pin=LCD1-17
+Added Pin To Net: NetName=LCD16 Pin=U1-44
+Added Net: Name=LCD16
+Added Pin To Net: NetName=LCD17 Pin=LCD1-18
+Added Pin To Net: NetName=LCD17 Pin=U1-43
+Added Net: Name=LCD17
+Added Pin To Net: NetName=LCD18 Pin=LCD1-19
+Added Pin To Net: NetName=LCD18 Pin=U1-42
+Added Net: Name=LCD18
+Added Pin To Net: NetName=LCD19 Pin=LCD1-20
+Added Pin To Net: NetName=LCD19 Pin=U1-41
+Added Net: Name=LCD19
+Added Pin To Net: NetName=LCD20 Pin=LCD1-21
+Added Pin To Net: NetName=LCD20 Pin=U1-40
+Added Net: Name=LCD20
+Added Pin To Net: NetName=LCD21 Pin=LCD1-22
+Added Pin To Net: NetName=LCD21 Pin=U1-39
+Added Net: Name=LCD21
+Added Pin To Net: NetName=LCD22 Pin=LCD1-23
+Added Pin To Net: NetName=LCD22 Pin=U1-38
+Added Net: Name=LCD22
+Added Pin To Net: NetName=LCD23 Pin=LCD1-24
+Added Pin To Net: NetName=LCD23 Pin=U1-37
+Added Net: Name=LCD23
+Added Pin To Net: NetName=LCD24 Pin=LCD1-25
+Added Pin To Net: NetName=LCD24 Pin=U1-36
+Added Net: Name=LCD24
+Added Pin To Net: NetName=LCD25 Pin=LCD1-26
+Added Pin To Net: NetName=LCD25 Pin=U1-35
+Added Net: Name=LCD25
+Added Pin To Net: NetName=LCD26 Pin=LCD1-27
+Added Pin To Net: NetName=LCD26 Pin=U1-34
+Added Net: Name=LCD26
+Added Pin To Net: NetName=LCD27 Pin=LCD1-28
+Added Pin To Net: NetName=LCD27 Pin=U1-33
+Added Net: Name=LCD27
+Added Pin To Net: NetName=LCD28 Pin=LCD1-29
+Added Pin To Net: NetName=LCD28 Pin=U1-32
+Added Net: Name=LCD28
+Added Pin To Net: NetName=LCD29 Pin=LCD1-30
+Added Pin To Net: NetName=LCD29 Pin=U1-31
+Added Net: Name=LCD29
+Added Pin To Net: NetName=LCD_COM0 Pin=LCD1-31
+Added Pin To Net: NetName=LCD_COM0 Pin=U1-63
+Added Net: Name=LCD_COM0
+Added Pin To Net: NetName=LCD_COM1 Pin=LCD1-32
+Added Pin To Net: NetName=LCD_COM1 Pin=U1-64
+Added Net: Name=LCD_COM1
+Added Pin To Net: NetName=LCD_COM2 Pin=LCD1-33
+Added Pin To Net: NetName=LCD_COM2 Pin=U1-65
+Added Net: Name=LCD_COM2
+Added Pin To Net: NetName=LCD_COM3 Pin=LCD1-34
+Added Pin To Net: NetName=LCD_COM3 Pin=U1-66
+Added Net: Name=LCD_COM3
+Added Pin To Net: NetName=LCD_COM4 Pin=LCD1-35
+Added Pin To Net: NetName=LCD_COM4 Pin=U1-67
+Added Net: Name=LCD_COM4
+Added Pin To Net: NetName=LCD_COM5 Pin=LCD1-36
+Added Pin To Net: NetName=LCD_COM5 Pin=U1-68
+Added Net: Name=LCD_COM5
+Added Pin To Net: NetName=LCD_COM6 Pin=LCD1-37
+Added Pin To Net: NetName=LCD_COM6 Pin=U1-69
+Added Net: Name=LCD_COM6
+Added Pin To Net: NetName=LCD_COM7 Pin=LCD1-38
+Added Pin To Net: NetName=LCD_COM7 Pin=U1-70
+Added Net: Name=LCD_COM7
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_2 Pin=R12-1
+Added Net: Name=NetC29_2
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=D1-2
+Added Pin To Net: NetName=NetC31_2 Pin=U3-3
+Added Net: Name=NetC31_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=L3-1
+Added Pin To Net: NetName=NetD3_2 Pin=U4-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R9-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=PWR.IN Pin=C32-1
+Added Pin To Net: NetName=PWR.IN Pin=C34-2
+Added Pin To Net: NetName=PWR.IN Pin=P2-1
+Added Pin To Net: NetName=PWR.IN Pin=U4-1
+Added Net: Name=PWR.IN
+Added Pin To Net: NetName=RS485_RXD Pin=U1-17
+Added Pin To Net: NetName=RS485_RXD Pin=U2-3
+Added Net: Name=RS485_RXD
+Added Pin To Net: NetName=RS485_TXD Pin=U1-16
+Added Pin To Net: NetName=RS485_TXD Pin=U2-2
+Added Net: Name=RS485_TXD
+Added Member To Class: ClassName=Main_schematic Member=Component C31 106
+Added Member To Class: ClassName=Main_schematic Member=Component C32 100uF/ 35V
+Added Member To Class: ClassName=Main_schematic Member=Component C33 104
+Added Member To Class: ClassName=Main_schematic Member=Component C34 100nF
+Added Member To Class: ClassName=Main_schematic Member=Component D5 LED
+Added Member To Class: ClassName=Main_schematic Member=Component L3 100uH
+Added Member To Class: ClassName=Main_schematic Member=Component P1 CON 2 EDG5.08
+Added Member To Class: ClassName=Main_schematic Member=Component P2 CON 2 EDG5.08
+Added Member To Class: ClassName=Main_schematic Member=Component S6 SW
+Added Member To Class: ClassName=Main_schematic Member=Component U2 RS485 Module
+Added Member To Class: ClassName=Main_schematic Member=Component U3 LM1117-3.3V
+Added Member To Class: ClassName=Main_schematic Member=Component U4 XL1509
+Added Room: Name=Main_schematic

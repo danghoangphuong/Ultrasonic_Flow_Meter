@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=COMM_SCL Pin=JP2-1
+Removed Pin From Net: NetName=COMM_SDA Pin=JP2-2
+Removed Pin From Net: NetName=COMM_SDA Pin=R14-2
+Removed Pin From Net: NetName=COMM_SCL Pin=R15-2
+Change Component Designator: OldDesignator=DOWN NewDesignator=S5
+Change Component Designator: OldDesignator=LED1 NewDesignator=D2
+Change Component Designator: OldDesignator=LED2 NewDesignator=D4
+Change Component Designator: OldDesignator=LEFT NewDesignator=S3
+Change Component Designator: OldDesignator=PG NewDesignator=D5
+Change Component Designator: OldDesignator=RIGHT NewDesignator=S2
+Change Component Designator: OldDesignator=SEL NewDesignator=S6
+Change Component Designator: OldDesignator=UP NewDesignator=S4
+Added Pin To Net: NetName=COMM_SDA Pin=JP2-1
+Added Pin To Net: NetName=COMM_SCL Pin=JP2-2
+Added Pin To Net: NetName=COMM_SCL Pin=R14-2
+Added Pin To Net: NetName=COMM_SDA Pin=R15-2
+Added Room: Name=Main_schematic

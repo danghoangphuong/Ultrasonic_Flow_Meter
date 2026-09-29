@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=BTN_UP Pin=U1-1
+Removed Pin From Net: NetName=BTN_DWN Pin=U1-2
+Removed Pin From Net: NetName=BTN_LEFT Pin=U1-28
+Removed Pin From Net: NetName=BTN_RIGHT Pin=U1-29
+Added Pin To Net: NetName=COMM_SDA Pin=JP2-1
+Added Pin To Net: NetName=COMM_SDA Pin=R15-2
+Added Pin To Net: NetName=COMM_SDA Pin=U1-14
+Added Pin To Net: NetName=BTN_UP Pin=U1-92
+Added Pin To Net: NetName=BTN_RIGHT Pin=U1-93
+Added Pin To Net: NetName=BTN_DWN Pin=U1-94
+Added Pin To Net: NetName=BTN_LEFT Pin=U1-95
+Added Member To Class: ClassName=Main_schematic Member=Component C4 106
+Added Room: Name=Main_schematic

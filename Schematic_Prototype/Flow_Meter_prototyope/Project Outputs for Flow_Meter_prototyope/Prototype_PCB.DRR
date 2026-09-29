@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Prototype_PCB.PcbDoc   21/09/26  14:49:56
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Prototype_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             80        PTH        0.00inch (0.00mm)
+T2      32mil (0.813mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T3      39mil (1.001mm)                                           Round             38        PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)                                             Round             14        PTH        0.00inch (0.00mm)
+T5      55mil (1.4mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T6      126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              146
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,41 @@
+Added Component: Designator=LCD1(LCD_HT1622)
+Added Pin To Net: NetName=S0 Pin=LCD1-1
+Added Pin To Net: NetName=S1 Pin=LCD1-2
+Added Pin To Net: NetName=S2 Pin=LCD1-3
+Added Pin To Net: NetName=S3 Pin=LCD1-4
+Added Pin To Net: NetName=S4 Pin=LCD1-5
+Added Pin To Net: NetName=S5 Pin=LCD1-6
+Added Pin To Net: NetName=S6 Pin=LCD1-7
+Added Pin To Net: NetName=S7 Pin=LCD1-8
+Added Pin To Net: NetName=S8 Pin=LCD1-9
+Added Pin To Net: NetName=S9 Pin=LCD1-10
+Added Pin To Net: NetName=S10 Pin=LCD1-11
+Added Pin To Net: NetName=S11 Pin=LCD1-12
+Added Pin To Net: NetName=S12 Pin=LCD1-13
+Added Pin To Net: NetName=S13 Pin=LCD1-14
+Added Pin To Net: NetName=S14 Pin=LCD1-15
+Added Pin To Net: NetName=S15 Pin=LCD1-16
+Added Pin To Net: NetName=S16 Pin=LCD1-17
+Added Pin To Net: NetName=S17 Pin=LCD1-18
+Added Pin To Net: NetName=S18 Pin=LCD1-19
+Added Pin To Net: NetName=S19 Pin=LCD1-20
+Added Pin To Net: NetName=S20 Pin=LCD1-21
+Added Pin To Net: NetName=S21 Pin=LCD1-22
+Added Pin To Net: NetName=S22 Pin=LCD1-23
+Added Pin To Net: NetName=S23 Pin=LCD1-24
+Added Pin To Net: NetName=S24 Pin=LCD1-25
+Added Pin To Net: NetName=S25 Pin=LCD1-26
+Added Pin To Net: NetName=S26 Pin=LCD1-27
+Added Pin To Net: NetName=S27 Pin=LCD1-28
+Added Pin To Net: NetName=S28 Pin=LCD1-29
+Added Pin To Net: NetName=S29 Pin=LCD1-30
+Added Pin To Net: NetName=COM0 Pin=LCD1-31
+Added Pin To Net: NetName=COM1 Pin=LCD1-32
+Added Pin To Net: NetName=COM2 Pin=LCD1-33
+Added Pin To Net: NetName=COM3 Pin=LCD1-34
+Added Pin To Net: NetName=COM4 Pin=LCD1-35
+Added Pin To Net: NetName=COM5 Pin=LCD1-36
+Added Pin To Net: NetName=COM6 Pin=LCD1-37
+Added Pin To Net: NetName=COM7 Pin=LCD1-38
+Added Member To Class: ClassName=Main_schematic Member=Component LCD1 LCD_TH1622
+Added Room: Name=Main_schematic

@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=BTN_RIGHT Pin=MSP430FR6047-12
+Removed Pin From Net: NetName=BTN_LEFT Pin=MSP430FR6047-13
+Removed Pin From Net: NetName=BTN_UP Pin=MSP430FR6047-14
+Removed Pin From Net: NetName=BTN_DWN Pin=MSP430FR6047-15
+Change Component Comment : Designator=C1 Old Comment=102 New Comment=12p
+Change Component Comment : Designator=C9 Old Comment=102 New Comment=12p
+Change Component Comment : Designator=C13 Old Comment=102 New Comment=12p
+Change Component Comment : Designator=C20 Old Comment=102 New Comment=12p
+Change Component Designator: OldDesignator=DWN NewDesignator=S5
+Change Component Designator: OldDesignator=JTAG NewDesignator=JP4
+Change Component Designator: OldDesignator=LED1 NewDesignator=D2
+Change Component Designator: OldDesignator=LED2 NewDesignator=D4
+Change Component Designator: OldDesignator=LED PG NewDesignator=D5
+Change Component Designator: OldDesignator=LEFT NewDesignator=S3
+Change Component Designator: OldDesignator=MCU RESET NewDesignator=S1
+Change Component Designator: OldDesignator=MSP430FR6047 NewDesignator=U1
+Change Component Designator: OldDesignator=RIGHT NewDesignator=S2
+Change Component Designator: OldDesignator=SEL NewDesignator=S6
+Change Component Designator: OldDesignator=SENSOR IN NewDesignator=JP1
+Change Component Designator: OldDesignator=UP NewDesignator=S4
+Added Component: Designator=JP2(JP 1x4 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESISTOR SMD 0805)
+Added Component: Designator=R15(RESISTOR SMD 0805)
+Added Pin To Net: NetName=TARGET_GND Pin=JP2-4
+Added Pin To Net: NetName=DVCC1 Pin=R14-1
+Added Pin To Net: NetName=DVCC1 Pin=R15-1
+Added Pin To Net: NetName=BTN_UP Pin=U1-1
+Added Pin To Net: NetName=BTN_DWN Pin=U1-2
+Added Pin To Net: NetName=BTN_LEFT Pin=U1-28
+Added Pin To Net: NetName=BTN_RIGHT Pin=U1-29
+Added Pin To Net: NetName=COMM_IRQ Pin=JP2-3
+Added Pin To Net: NetName=COMM_IRQ Pin=U1-13
+Added Net: Name=COMM_IRQ
+Added Pin To Net: NetName=COMM_SCL Pin=JP2-2
+Added Pin To Net: NetName=COMM_SCL Pin=R14-2
+Added Pin To Net: NetName=COMM_SCL Pin=U1-15
+Added Net: Name=COMM_SCL
+Added Pin To Net: NetName=COMM_SDA Pin=JP2-1
+Added Pin To Net: NetName=COMM_SDA Pin=R15-2
+Added Pin To Net: NetName=COMM_SDA Pin=U1-14
+Added Net: Name=COMM_SDA
+Added Member To Class: ClassName=Main_schematic Member=Component JP2 JP 1x4 2.54
+Added Member To Class: ClassName=Main_schematic Member=Component LCD1 LCD_TH1622
+Added Member To Class: ClassName=Main_schematic Member=Component R14 4.7k
+Added Member To Class: ClassName=Main_schematic Member=Component R15 4.7k
+Added Room: Name=Main_schematic

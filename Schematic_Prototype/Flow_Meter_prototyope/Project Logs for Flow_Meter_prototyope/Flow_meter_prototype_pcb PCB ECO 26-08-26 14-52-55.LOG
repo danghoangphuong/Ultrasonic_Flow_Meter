@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TXD Pin=JP3-1
+Removed Pin From Net: NetName=RXD Pin=JP3-2
+Added Pin To Net: NetName=RXD Pin=JP3-1
+Added Pin To Net: NetName=TXD Pin=JP3-2
+Added Room: Name=Main_schematic

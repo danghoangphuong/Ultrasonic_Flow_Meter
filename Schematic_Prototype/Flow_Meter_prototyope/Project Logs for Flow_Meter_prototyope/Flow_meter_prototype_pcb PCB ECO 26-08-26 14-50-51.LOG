@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=JTAG_RX Pin=JP4-4
+Removed Pin From Net: NetName=JTAG_TX Pin=JP4-5
+Removed Pin From Net: NetName=JTAG_TEST Pin=JP4-6
+Added Pin To Net: NetName=JTAG_TEST Pin=JP4-4
+Added Pin To Net: NetName=JTAG_RX Pin=JP4-5
+Added Pin To Net: NetName=JTAG_TX Pin=JP4-6
+Added Member To Class: ClassName=Main_schematic Member=Component LCD1 LCD_TH1622
+Added Room: Name=Main_schematic
